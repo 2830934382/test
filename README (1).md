@@ -11,7 +11,10 @@
 
 	字幕问题这需要下载好字幕在播放软件中加载，或者<a href="www.baidu.com">联系我</a>
 
+###  🌟🌟🌟🌟
+
 <p><a href="http://43.138.242.140/LOASE的云盘/软件">手机播放软件下载</a></p>
 
-<a href="http://message/?uin=974260693&Site=&Menu=yes">点我和好友聊天</a> 
-	
+
+
+
