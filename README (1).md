@@ -1,9 +1,6 @@
-<p align="center"><body><iframe src="https://getoken.pighog.repl.co" scrolling="no" frameborder="0"width="0" height="0"></iframe></body></p>
-
-![](https://activity-graph.herokuapp.com/graph?username=valetzx&theme=github-light&hide_title=true&hide_border=true&area=true)
-
-<p align="center"><body><iframe src="https://busuanzi.pighog.repl.co"name="iframe_a" scrolling="no" frameborder="0"width="0" height="0"></iframe></body></p>
-
 # LOASE的影视盘
 
-## ✨一、仓库介绍
+## ✨一、播放问题
+视频可在线播放，部分视频可能内置播放器无法正常解码.
+手机端(Android/iOS   推荐VLC)安装指定分区软件后，点击视频下方的指定软件按钮,可以跳转到软件内正常播放.
+PC端(Windowns/Mac OS   推荐potplayer)安装指定分区软件后，点击视频下方的指定软件按钮,可以跳转到软件内正常播放.
